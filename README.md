@@ -10,16 +10,13 @@ The majority of the CT images used in this study are taken by GE MEDICAL SYSTEMS
 ## Statistical analysis of pre- and post- operative HU around tumor region
 The Hounsfield Unit (HU) values around the tumor region were statistically analyzed both preoperative and postoperative. The analyzed region specifically refers to the area outside the tumor area but within the treatment area. The statistical analysis reveals a significant difference in HU values in the region before and after surgery, with the two distributions distinguishable using a threshold of around -600 HU. This statistical finding has significant clinical implications for the evaluation of lung ablation surgeries. It allows for determining the range of ablation by assessing the average HU value at the ablation site. The finding aligns with the clinical follow-up outcomes obtained from 35 patients.
 <img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Value%20of%20HU.png?raw=true" width="900" alt="demo"/><br/>
+Value of HU
 
 ## Schematic
-<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Registration%20results%20after%20tumor%20segmentation%20and%20corresponding%20HSV%20pseudo-color%20images%20on%20the%20real%20clinical%20data.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/The%20overall%20framework%20for%20Respiratory%20Differencing%20and%20AES%20quantitative%20assessment.png?raw=true" width="900" alt="demo"/><br/>
+The overall framework for Respiratory Differencing and AES quantitative assessment
 
 ## Experimental results   
-<img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/data_Demo.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Registration%20results%20after%20tumor%20segmentation%20and%20corresponding%20HSV%20pseudo-color%20images%20on%20the%20real%20clinical%20data.png?raw=true" width="900" alt="demo"/><br/>
+Registration results after tumor segmentation and corresponding HSV pseudo-color images on the real clinical data
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_slice_registered.gif?raw=true" width="300" alt="demo"/>
-    <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/4d_volume_registered.gif?raw=true" width="300" alt="demo"/>
-</div>
-
-Post-registration 4D-CT 2D rendering  &nbsp;&nbsp; Post-registration 4D-CT 3D rendering
