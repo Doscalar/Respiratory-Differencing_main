@@ -12,7 +12,7 @@ The Hounsfield Unit (HU) values around the tumor region were statistically analy
 <img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Value%20of%20HU.png?raw=true" width="900" alt="demo"/><br/>
 
 ## Schematic
-<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Value%20of%20HU.png?raw=true" width="900" alt="demo"/><br/>
+<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Registration%20results%20after%20tumor%20segmentation%20and%20corresponding%20HSV%20pseudo-color%20images%20on%20the%20real%20clinical%20data.png?raw=true" width="900" alt="demo"/><br/>
 
 ## Experimental results   
 <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/data_Demo.png?raw=true" width="900" alt="demo"/><br/>
