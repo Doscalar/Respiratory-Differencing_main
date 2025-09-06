@@ -11,7 +11,10 @@ The majority of the CT images used in this study are taken by GE MEDICAL SYSTEMS
 The Hounsfield Unit (HU) values around the tumor region were statistically analyzed both preoperative and postoperative. The analyzed region specifically refers to the area outside the tumor area but within the treatment area. The statistical analysis reveals a significant difference in HU values in the region before and after surgery, with the two distributions distinguishable using a threshold of around -600 HU. This statistical finding has significant clinical implications for the evaluation of lung ablation surgeries. It allows for determining the range of ablation by assessing the average HU value at the ablation site. The finding aligns with the clinical follow-up outcomes obtained from 35 patients.
 <img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Value%20of%20HU.png?raw=true" width="900" alt="demo"/><br/>
 
-## Experimental results
+## Schematic
+<img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Value%20of%20HU.png?raw=true" width="900" alt="demo"/><br/>
+
+## Experimental results   
 <img src="https://github.com/computerAItest/GraphMorph/blob/main/GraphMorph/data/data_Demo.png?raw=true" width="900" alt="demo"/><br/>
 
 <div style="display: flex; justify-content: space-between;">
