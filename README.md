@@ -13,9 +13,9 @@ The Hounsfield Unit (HU) values around the tumor region were statistically analy
 
 ## Schematic
 <img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/The%20overall%20framework%20for%20Respiratory%20Differencing%20and%20AES%20quantitative%20assessment.png?raw=true" width="900" alt="demo"/><br/>
-                                    The overall framework for Respiratory Differencing and AES quantitative assessment
+<p align="center">The overall framework for Respiratory Differencing and AES quantitative assessment</p>
 
 ## Experimental results   
 <img src="https://github.com/Doscalar/Respiratory-Differencing_main/blob/main/Registration%20results%20after%20tumor%20segmentation%20and%20corresponding%20HSV%20pseudo-color%20images%20on%20the%20real%20clinical%20data.png?raw=true" width="900" alt="demo"/><br/>
-                           Registration results after tumor segmentation and corresponding HSV pseudo-color images on the real clinical data
+<p align="center">Registration results after tumor segmentation and corresponding HSV pseudo-color images on the real clinical data</p>
 
